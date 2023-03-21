@@ -139,7 +139,7 @@ COPY public.questions (id, question, answer, difficulty, category) FROM stdin;
 17	La Giaconda is better known as what?	Mona Lisa	3	2
 18	How many paintings did Van Gogh sell in his lifetime?	One	4	2
 19	Which American artist was a pioneer of Abstract Expressionism, and a leading exponent of action painting?	Jackson Pollock	2	2
-20	What is the heaviest organ in the human body?	The Liver	4	1
+20	What is the heaviest organ in the human body?	The Skin	4	1
 21	Who discovered penicillin?	Alexander Fleming	3	1
 22	Hematology is a branch of medicine involving the study of what?	Blood	4	1
 23	Which dung beetle was worshipped by the ancient Egyptians?	Scarab	4	4

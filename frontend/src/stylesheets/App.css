@@ -1,5 +1,5 @@
 .App-header {
-  background-color: #222;
+  background-color: #f3f5f6;
   color: white;
   display: flex;
   justify-content: space-between;
@@ -10,7 +10,9 @@
 }
 
 .App-header > h1 {
-  color: dodgerblue;
+  color: #000;
+  font-weight: 500;
+  font-size: 20px;
 }
 
 .App-intro {
@@ -19,6 +21,8 @@
 
 h2 {
   text-align: center;
+  color: #24272b;
+  font-weight: 400;
 }
 
 li {
